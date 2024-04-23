@@ -1,2 +1,5 @@
-# Hello_World
-Full stack developer  Beginner web developer Gresik / East Java
+# Hello_World latihan edit readme
+this repo used to do collage task PW 
+latihan edit readme
+
+# commit edited readme
